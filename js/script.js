@@ -62,7 +62,7 @@ function view(){
                     <div class="assign mb-3"><i class="far fa-user-circle"></i>
                         <span>${task.assignedPerson}</span>
                     </div>
-                    <button type="button" class="btn btn-success"><i class="fas fa-check me-1"></i> ${task.isOpen ? 'Закрыть' : 'Открытьbutton'}</button>
+                    <button type="button" class="btn btn-success"><i class="fas fa-check me-1"></i> ${task.isOpen ? 'Закрыть' : 'Открыть'}</button>
                     <button type="button" class="btn btn-danger delete-btn"><i class="fas fa-times me-2"></i>Удалить</button>
                 </div>`
     })
