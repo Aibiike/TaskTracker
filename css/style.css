@@ -1,0 +1,17 @@
+body{
+    background: url("../img/bg.jpg") fixed no-repeat center/cover;
+    font-family: 'Pacifico', cursive;
+}
+.bg-light{
+    opacity: .8;
+}
+
+.my-5{
+    font-size: 50px;
+    color: #fffefe;
+    text-shadow: 2px 2px 2px #090909;
+}
+.badge{
+    color: #1c1c1c;
+    padding: 10px 5px;
+}
